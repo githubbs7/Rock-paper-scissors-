@@ -69,4 +69,5 @@ img{
     background: linear-gradient(to bottom right,#7FACFF,#F083A2,#C38EDC);
     border-radius: 2rem;
     font-size: 3.4rem;
+    text-align: center;
 }
